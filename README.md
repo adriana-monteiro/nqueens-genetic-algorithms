@@ -1,6 +1,6 @@
 # Solving the N-Queens Problem: A Genetic Algorithms Approach
 
-This is a project developed as part of the Computation for Intelligent Optimisation course of the Master's in Data Science and Advanced Analytics at NOVA IMS. The goal was to solve any optimisation task using genetic algorithms. We decided to solve the [N-Queens problem](https://developers.google.com/optimization/cp/queens) with an unkown (to the algorithm) value of N.
+This is a project developed as part of the Computation for Intelligent Optimisation course of the Master's in Data Science and Advanced Analytics at NOVA IMS. The goal was to solve any optimisation task using genetic algorithms. We decided to solve the [N-Queens problem](https://developers.google.com/optimization/cp/queens) using an unkown (to the algorithm) value of N.
 
 ## Key Project Components
 1. Discussing an appropriate representation for the individuals;
